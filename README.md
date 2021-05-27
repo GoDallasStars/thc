@@ -1,2 +1,2 @@
 # thc
-# ThrashCoin Test
+ThrashCoin Test
